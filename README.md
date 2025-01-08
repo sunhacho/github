@@ -1,6 +1,19 @@
 # 📜 조선하 포트폴리오
 
 조선하 (Sunha Cho) - 포트폴리오
+<img src="https://github.com/user-attachments/assets/8619066d-ae40-4952-b80f-ff228655562c" width="200" align="left">
+
+2002.06.04
+
+서울여자대학교 데이터사이언스학과
+
+.
+
+.
+
+.
+
+.
 
 # 👋 Intro
 
