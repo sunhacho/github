@@ -16,9 +16,8 @@
 인간과 ChatGPT의 감정 분석 비교 (머신러닝 팀프로젝트)
 
 개발기간 : 2022.07.07-09.02
-핵심 역할 : 팀장, TSP 알고리즘을 활용한 여행추천 알고리즘 작성, React를 사용한 SPA 개발
-Back-end
+핵심 역할 : 
 
 Language : python3
 프로젝트 상세 설명(Front-end)
-https://github.com/sunhacho/Portfolio?tab=readme-ov-file#머신러닝_-chatgpt를-통한-감정분석
+https://github.com/sunhacho/ChatGPT
