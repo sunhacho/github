@@ -27,3 +27,4 @@ Front-end
 Language : javascript
 Skill : React.js
 프로젝트 상세 설명(Front-end)
+https://github.com/sunhacho/Portfolio?tab=readme-ov-file#머신러닝_-chatgpt를-통한-감정분석
