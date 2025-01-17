@@ -46,7 +46,7 @@ Skill : Django, Django-rest-framework
 [프로젝트 상세 설명](https://github.com/sunhacho/DetectGPT/tree/main)
 <br/><br/>  
 
-## 3. 🚨 불법 바이럴 탐지 모델
+## 3. 🦠 불법 바이럴 탐지 모델
 
 X (구 트위터)의 불법 바이럴 탐지 (캡스톤디자인2 - 팀프로젝트)
 
