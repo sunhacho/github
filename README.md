@@ -25,13 +25,13 @@
 <br/><br/> 
 ## 1. 🤖 ChatGPT를 활용한 감정 분석
 
-인간과 ChatGPT의 감정 분석 비교 (머신러닝 팀프로젝트)
+인간과 ChatGPT의 감정 분석 비교 (머신러닝 - 팀프로젝트)
 
 개발기간 : 2022.07.07-09.02
 핵심 역할 : 
 
 Language : python3
-
+<br/> 
 [프로젝트 상세 설명](https://github.com/sunhacho/ChatGPT/tree/main)
 <br/><br/>  
 ## 2. 🚨 ChatGPT 탐지 웹 애플리케이션 "디텍트지피티"
@@ -41,6 +41,7 @@ ChatGPT가 작성한 텍스트를 탐지 (딥러닝 개인 프로젝트)
 개발기간 : 2022.06.28-07.06
 Language : python3
 Skill : Django, Django-rest-framework
+<br/> 
 [프로젝트 상세 설명](https://github.com/sunhacho/DetectGPT/tree/main)
 <br/><br/>  
 ## 3. 🚨 불법 바이럴 탐지 모델
@@ -48,9 +49,11 @@ Skill : Django, Django-rest-framework
 X (구 트위터)의 불법 바이럴 탐지 (캡스톤디자인2 - 팀프로젝트)
 
 개발기간 : 2022.06.02-13
+<br/> 
 핵심 역할 : 데이터 라벨링을 위한 반지도 학습, 네트워크 분석 모델 및 앙상블 구현, 웹 애플리케이션 제작
 Language : python3, javascript
 Skill : Django, MySQL
+<br/> 
 [프로젝트 상세 설명](https://github.com/sunhacho/viral/tree/main)
 
 
@@ -58,4 +61,5 @@ Skill : Django, MySQL
 개인 트레이너와 연결해주는 회원 맞춤형 애플리케이션 (구루2 - 팀프로젝트)
 개발기간: 2022.01.19 - 02.02
 핵심 역할: 개발 (데이터베이스 구축, 로그인, 회원가입, 메인화면 등 화면 구성과 기능들 구현)
+<br/> 
 [프로젝트 상세 설명](https://github.com/sunhacho/Coach_connect)
