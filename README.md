@@ -54,3 +54,9 @@ Language : python3, javascript
 Skill : Django, MySQL
 [프로젝트 상세 설명](https://github.com/sunhacho/viral/tree/main)
 
+
+## 4. 맞춤형 트레이너 매치 애플리케이션 "Coach Connect"
+개인 트레이너와 연결해주는 회원 맞춤형 애플리케이션 (구루2 - 팀프로젝트)
+개발기간: 2022.01.19 - 02.02
+핵심 역할: 개발 (데이터베이스 구축, 로그인, 회원가입, 메인화면 등 화면 구성과 기능들 구현)
+[프로젝트 상세 설명](https://github.com/sunhacho/Coach_connect)
