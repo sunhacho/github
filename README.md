@@ -74,4 +74,4 @@ Skill : Django, MySQL
 <br/> 
 핵심 역할: PM, 전처리 및 토픽모델링, SPSS를 활용한 설문 분석 등
 <br/> 
-
+[프로젝트 상세 설명](https://github.com/sunhacho/-)
