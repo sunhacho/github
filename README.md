@@ -75,3 +75,7 @@ Language : python3
 기술 : SPSS
 <br/> 
 [프로젝트 상세 설명](https://github.com/sunhacho/-)
+<br/> <br/> 
+
+## 6. 배구 분석 아카데미 3기
+활동기간: 2024.03 - 2024.05
