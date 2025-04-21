@@ -83,8 +83,9 @@ Language : 코틀린
 <br/> 
 연구기간: 2023.10 - 2023.12
 <br/> 
-핵심 역할: PM, 전처리, 상관관계 분석 등
-Language : python3
+핵심 역할: PM, 전처리, 상관관계 분석 등<br/> 
+Language : python3<br/> 
+[프로젝트 상세 설명](https://github.com/sunhacho/fan_database/tree/main)<br/> <br/> 
 
 ## 9. 🤖 ChatGPT를 활용한 감정 분석
 
