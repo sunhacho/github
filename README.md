@@ -52,9 +52,9 @@ Language : python3<br/>
 <br/> 
 연구기간: 2024.01 - 2025.03
 <br/> 
-핵심 역할: PM, 전처리 및 토픽모델링, SPSS를 활용한 설문 분석 등
-Language : python3
-기술 : SPSS
+핵심 역할: PM, 전처리 및 토픽모델링, SPSS를 활용한 설문 분석 등<br/>
+Language : python3<br/>
+기술 : SPSS<br/>
 <br/> 
 [프로젝트 상세 설명](https://github.com/sunhacho/-)
 <br/> <br/> 
@@ -69,12 +69,14 @@ Language : 코틀린
 [프로젝트 상세 설명](https://github.com/sunhacho/Coach_connect)
 <br/> <br/> 
 
+## 5. ⚽️ 축구 전력 분석 아카데미 24-2기
 
-
-## 5. 🏐 배구 분석 아카데미 3기
+<br/> <br/> 
+## 6. 🏐 배구 분석 아카데미 3기
 활동기간: 2024.03 - 2024.05
+[개인 프로젝트 상세 설명](https://github.com/sunhacho/volleyball/tree/main)
 
-## 6. ⚽️ 축구 전력 분석 아카데미 24-2기
+<br/> <br/> 
 
 ## 7. 👗 착용감 기반 추천 서비스 "핏인픽"
 
