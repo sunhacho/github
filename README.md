@@ -32,6 +32,7 @@ X (구 트위터)의 불법 바이럴 탐지 (캡스톤디자인2 - 팀프로젝
 핵심 역할 : 데이터 라벨링을 위한 반지도 학습, 네트워크 분석 모델 및 앙상블 구현, 웹 애플리케이션 제작<br/> 
 Language : python3
 <br/> 
+<br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/viral/tree/main)
 <br/><br/> 
 
@@ -42,6 +43,7 @@ ChatGPT가 작성한 텍스트를 탐지 (딥러닝 개인 프로젝트)
 개발기간 : 2024.11- 2024.12<br/> 
 Language : python3<br/> 
 <br/> 
+<br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/DetectGPT/tree/main)
 <br/><br/>  
 
@@ -92,8 +94,9 @@ Language : sprtscode, python3<br/>
 
 이커머스의 반품률이 높다는 문제점을 착용감 기반 추천 서비스를 통해 해결하고자 함
 <br/> 
-연구기간: 2025.03-2025.04<br/> 
-[프로젝트 상세 설명(https://github.com/sunhacho/Fit-in-Fit)<br/> <br/> 
+연구기간: 2025.03-2025.04<br/>
+<br/>
+[프로젝트 상세 설명](https://github.com/sunhacho/Fit-in-Fit)<br/> <br/> 
 
 ## 8. 🖥️ 프로 남자 배구 팬데이터베이스 구축
 
