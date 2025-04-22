@@ -32,7 +32,6 @@ X (구 트위터)의 불법 바이럴 탐지 (캡스톤디자인2 - 팀프로젝
 핵심 역할 : 데이터 라벨링을 위한 반지도 학습, 네트워크 분석 모델 및 앙상블 구현, 웹 애플리케이션 제작<br/> 
 Language : python3
 <br/> 
-<br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/viral/tree/main)
 <br/><br/> 
 
@@ -43,7 +42,6 @@ ChatGPT가 작성한 텍스트를 탐지 (딥러닝 개인 프로젝트)
 개발기간 : 2024.11- 2024.12<br/> 
 Language : python3<br/> 
 <br/> 
-<br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/DetectGPT/tree/main)
 <br/><br/>  
 
@@ -72,6 +70,7 @@ Language : python3<br/>
 <br/> 
 Language : 코틀린<br/> 
 기술 : IntelliJ<br/> 
+<br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/Coach_connect)
 <br/> <br/> 
 
@@ -79,6 +78,7 @@ Language : 코틀린<br/>
 
 활동기간: 2024.06 - 2024.07<br/>
 Language : python3<br/>
+<br/>
 [개인 프로젝트 상세 설명](https://github.com/sunhacho/soccer)<br/>
 <br/> <br/> 
 ## 6. 🏐 배구 분석 아카데미 3기
@@ -86,6 +86,7 @@ Language : python3<br/>
 활동기간: 2024.03 - 2024.05<br/>
 Language : sprtscode, python3<br/>
 기술: volleystation<br/>
+<br/>
 [개인 프로젝트 상세 설명](https://github.com/sunhacho/volleyball/tree/main)
 
 <br/> <br/> 
@@ -106,6 +107,7 @@ Language : sprtscode, python3<br/>
 <br/> 
 핵심 역할: PM, 전처리, 상관관계 분석 등<br/> 
 Language : python3<br/> 
+<br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/fan_database/tree/main)<br/> <br/> 
 
 ## 9. 🤖 ChatGPT를 활용한 감정 분석
