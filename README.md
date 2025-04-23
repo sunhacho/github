@@ -87,7 +87,7 @@ Language : python3<br/>
 ## 6. 🏐 배구 분석 아카데미 3기
 
 활동기간: 2024.03 - 2024.05<br/>
-Language : sprtscode, python3<br/>
+Language : sportscode, python3<br/>
 기술: volleystation<br/>
 <br/>
 [개인 프로젝트 상세 설명](https://github.com/sunhacho/volleyball/tree/main)
