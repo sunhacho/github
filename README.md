@@ -81,7 +81,8 @@ Language : 코틀린<br/>
 
 활동기간: 2024.06 - 2024.07<br/>
 Language : python3<br/>
-<br/>
+기술 : BEPRO
+<br/> 
 [개인 프로젝트 상세 설명](https://github.com/sunhacho/soccer)<br/>
 <br/> <br/> 
 ## 6. 🏐 배구 분석 아카데미 3기
