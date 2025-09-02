@@ -71,7 +71,7 @@ Language : python3<br/>
 핵심 역할: 기획,아이디어, 개발 (데이터베이스 구축, 로그인, 회원가입, 메인화면 등 화면 구성과 기능들 구현)<br/> 
 <br/> 
 Language : 코틀린<br/> 
-기술 : IntelliJ<br/> 
+기술 : 안드로이드스튜디오<br/> 
 <br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/Coach_connect)
 <br/> <br/> 
