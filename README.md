@@ -11,8 +11,8 @@ Department of datascience (데이터사이언스학과) <br/>
 2021.03 ~ 2026.03 (졸업예정)<br/> 
 <br/>
 
-# 메일: juliacho0604@naver.com<br/>
-# 전화번호: +82) 010-6639-8319
+### 메일: juliacho0604@naver.com<br/>
+*전화번호: +82) 010-6639-8319*
 
 <br/> <br/> <br/> 
 <br/> 
