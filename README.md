@@ -41,7 +41,7 @@ Language : python3
 
 ChatGPT가 작성한 텍스트를 탐지 (딥러닝 개인 프로젝트)
 
-개발기간 : 2024.11- 2024.12<br/> 
+개발기간 : 2024.10- 2024.12<br/> 
 Language : python3<br/> 
 <br/> 
 [프로젝트 상세 설명](https://github.com/sunhacho/DetectGPT/tree/main)
