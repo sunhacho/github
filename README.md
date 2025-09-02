@@ -7,7 +7,10 @@
 
 Seoul women's university (서울여자대학교) <br/>
 Department of datascience (데이터사이언스학과) <br/>
+<br/>
 2021.03 ~ 2026.03 (졸업예정)<br/> 
+<br/>
+
 juliacho0604@naver.com<br/>
 +82) 010-6639-8319
 
