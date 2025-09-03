@@ -35,7 +35,11 @@ ICT 플랫폼 학회 2024 추계학술대회
 <br/> 
 개발기간 : 2024.09- 2024.12
 <br/> 
-핵심 역할 : 크롤링, 전처리, 데이터 라벨링을 위한 반지도 학습, 딥러닝 모델, 네트워크 분석 모델 및 앙상블 구현, 웹 애플리케이션 제작<br/> 
+핵심 역할 : <br/> 
+Data Scientist (기여도 100%) <br/> 
+: 언어적, 의미적 특성을 활용한 KoELECTRA 모델과 네트워크 분석을 통한 TabNet 모델을 앙상블하여 새로운 탐지 모델 개발<br/> <br/> 
+Frontend (기여도 100%) <br/> 
+: 웹서빙과 웹페이지 디자인을 담당<br/> 
 Language : python3
 <br/> 
 [프로젝트 상세 설명](https://github.com/sunhacho/viral/tree/main)
