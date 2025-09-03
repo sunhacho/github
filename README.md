@@ -63,7 +63,9 @@ Language : python3<br/>
 <br/> 
 연구기간: 2024.01 - 2025.03
 <br/> 
-핵심 역할: PM, 전처리 및 토픽모델링, SPSS를 활용한 설문 분석 등<br/>
+핵심 역할: 
+#### PM (기여도 100%) : 기획 구체화, 커뮤니케이션 효율화
+#### Data scientist, analyst (기여도 100%) : 토픽모델링, SPSS 분석
 
 Language : python3<br/>
 기술 : SPSS<br/>
