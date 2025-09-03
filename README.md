@@ -36,9 +36,9 @@ ICT 플랫폼 학회 2024 추계학술대회
 개발기간 : 2024.09- 2024.12
 <br/> 
 핵심 역할 : 
-#### Data Scientist (기여도 100%) <br/> 
+**Data Scientist (기여도 100%)** <br/>
 : 언어적, 의미적 특성을 활용한 KoELECTRA 모델과 네트워크 분석을 통한 TabNet 모델을 앙상블하여 새로운 탐지 모델 개발<br/> 
-#### Frontend (기여도 100%) <br/> 
+**Frontend (기여도 100%)** <br/> 
 : 웹서빙과 웹페이지 디자인을 담당<br/> <br/> 
 Language : python3
 <br/> 
@@ -64,8 +64,8 @@ Language : python3<br/>
 연구기간: 2024.01 - 2025.03
 <br/> 
 핵심 역할: 
-#### PM (기여도 100%) : 기획 구체화, 커뮤니케이션 효율화
-#### Data scientist, analyst (기여도 100%) : 토픽모델링, SPSS 분석
+**PM (기여도 100%) : 기획 구체화, 커뮤니케이션 효율화**
+**Data scientist, analyst (기여도 100%) : 토픽모델링, SPSS 분석**
 
 Language : python3<br/>
 기술 : SPSS<br/>
