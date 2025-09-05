@@ -59,7 +59,7 @@ Language : python3<br/>
 
 "뉴런즈" 기업 연계 프로젝트로 AI 추천 서비스 특성과 지속사용의도와의 관계에 대해 연구를 진행
 <br/> 
-📄 한국산학기술학회에 논문 기재
+📄 한국산학기술학회에 논문 기재<br/> 
 🏆 ICES 2024_Summer 하계국제학술대회 감성과학회 장려상
 <br/> 
 연구기간: 2024.01 - 2025.03
@@ -82,7 +82,7 @@ Language : python3<br/>
 <br/> 
 연구기간: 2025.04 - 2025.07
 <br/> 
-[프로젝트 상세 설명](https://github.com/sunhacho/-)
+[프로젝트 상세 설명](https://github.com/sunhacho/coupangplay_marketing)
 <br/> <br/> 
 
 ## 5. 🏋🏻 맞춤형 트레이너 매칭 애플리케이션 "Coach Connect"
