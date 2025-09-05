@@ -31,7 +31,7 @@ Department of datascience (데이터사이언스학과) <br/>
 ## 1. 🦠 불법 바이럴 탐지 모델
 
 X (구 트위터)의 불법 바이럴 탐지 (캡스톤디자인2 - 팀프로젝트)<br/> 
-ICT 플랫폼 학회 2024 추계학술대회
+📄 ICT 플랫폼학회 추계학술대회 (2024)
 <br/> 
 개발기간 : 2024.09- 2024.12
 <br/> 
@@ -59,7 +59,8 @@ Language : python3<br/>
 
 "뉴런즈" 기업 연계 프로젝트로 AI 추천 서비스 특성과 지속사용의도와의 관계에 대해 연구를 진행
 <br/> 
-한국산학기술학회에 논문 기재
+📄 한국산학기술학회에 논문 기재
+🏆 ICES 2024_Summer 하계국제학술대회 감성과학회 장려상
 <br/> 
 연구기간: 2024.01 - 2025.03
 <br/> 
@@ -73,7 +74,18 @@ Language : python3<br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/-)
 <br/> <br/> 
 
-## 4. 🏋🏻 맞춤형 트레이너 매칭 애플리케이션 "Coach Connect"
+
+## 4. 👩🏻‍💻 쿠팡플레이 3C 분석을 통한 마케팅 전략 수립
+
+개인 프로젝트 (빅데이터기반마케팅)
+3C 분석과 STP전략을 통해 새로운 마케팅 전략을 수립
+<br/> 
+연구기간: 2025.04 - 2025.07
+<br/> 
+[프로젝트 상세 설명](https://github.com/sunhacho/-)
+<br/> <br/> 
+
+## 5. 🏋🏻 맞춤형 트레이너 매칭 애플리케이션 "Coach Connect"
 
 개인 트레이너와 연결해주는 회원 맞춤형 애플리케이션 (구루2 - 팀프로젝트)
 <br/> 
@@ -90,7 +102,7 @@ Language : 코틀린<br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/Coach_connect)
 <br/> <br/> 
 
-## 5. ⚽️ 축구 전력 분석 아카데미 24-2기
+## 6. ⚽️ 축구 전력 분석 아카데미 24-2기
 
 활동기간: 2024.06 - 2024.07<br/>
 Language : python3<br/>
@@ -98,7 +110,7 @@ Language : python3<br/>
 <br/> 
 [개인 프로젝트 상세 설명](https://github.com/sunhacho/soccer)<br/>
 <br/> <br/> 
-## 6. 🏐 배구 분석 아카데미 3기
+## 7. 🏐 배구 분석 아카데미 3기
 
 활동기간: 2024.03 - 2024.05<br/>
 Language : sportscode, python3<br/>
@@ -108,7 +120,7 @@ Language : sportscode, python3<br/>
 
 <br/> <br/> 
 
-## 7. 👗 착용감 기반 추천 서비스 "핏인핏"
+## 8. 👗 착용감 기반 추천 서비스 "핏인핏"
 
 이커머스의 반품률이 높다는 문제점을 착용감 기반 추천 서비스를 통해 해결하고자 함
 <br/> 
@@ -116,7 +128,7 @@ Language : sportscode, python3<br/>
 <br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/Fit-in-Fit)<br/> <br/> 
 
-## 8. 🖥️ 프로 남자 배구 팬데이터베이스 구축
+## 9. 🖥️ 프로 남자 배구 팬데이터베이스 구축
 
 야구와 관중 수의 상관관계 분석을 통해 프로 남자 배구 팬데이터 베이스 구축을 통한 효과적 마케팅의 방향성 제시
 <br/> 
@@ -127,7 +139,7 @@ Language : python3<br/>
 <br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/fan_database/tree/main)<br/> <br/> 
 
-## 9. 🤖 ChatGPT를 활용한 감정 분석
+## 10. 🤖 ChatGPT를 활용한 감정 분석
 
 인간과 ChatGPT의 감정 분석 비교 (머신러닝 - 팀프로젝트)<br/> 
 
