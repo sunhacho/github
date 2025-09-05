@@ -102,7 +102,7 @@ Language : 코틀린<br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/Coach_connect)
 <br/> <br/> 
 
-## 6. 🏋🏻 Ecommerce 산업 분석 비교
+## 6. 🛜 Ecommerce 산업 분석 비교
 
 이커머스 동향을 살피고, 크게 국내 이커머스, C 커머스, 스포츠 이커머스, 중고거래 이커머스로 나누어 분석 (빅데이터분석응용 - 팀프로젝트)
 <br/> 
@@ -112,7 +112,7 @@ Language : 코틀린<br/>
 : 기획 구체화, 커뮤니케이션 효율화 
   스포츠 이커머스 분야 분석
 <br/> 
-[프로젝트 상세 설명](https://github.com/sunhacho/Coach_connect)
+[프로젝트 상세 설명](https://github.com/sunhacho/Ecommerce)
 <br/> <br/> 
 
 ## 7. ⚽️ 축구 전력 분석 아카데미 24-2기
