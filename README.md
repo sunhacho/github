@@ -102,7 +102,20 @@ Language : 코틀린<br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/Coach_connect)
 <br/> <br/> 
 
-## 6. ⚽️ 축구 전력 분석 아카데미 24-2기
+## 6. 🏋🏻 Ecommerce 산업 분석 비교
+
+이커머스 동향을 살피고, 크게 국내 이커머스, C 커머스, 스포츠 이커머스, 중고거래 이커머스로 나누어 분석 (빅데이터분석응용 - 팀프로젝트)
+<br/> 
+개발기간: 2025.09 - 2024.11<br/> 
+핵심 역할:<br/> 
+**PM (기여도100%)** 
+: 기획 구체화, 커뮤니케이션 효율화 
+  스포츠 이커머스 분야 분석
+<br/> 
+[프로젝트 상세 설명](https://github.com/sunhacho/Coach_connect)
+<br/> <br/> 
+
+## 7. ⚽️ 축구 전력 분석 아카데미 24-2기
 
 활동기간: 2024.06 - 2024.07<br/>
 Language : python3<br/>
@@ -110,7 +123,7 @@ Language : python3<br/>
 <br/> 
 [개인 프로젝트 상세 설명](https://github.com/sunhacho/soccer)<br/>
 <br/> <br/> 
-## 7. 🏐 배구 분석 아카데미 3기
+## 8. 🏐 배구 분석 아카데미 3기
 
 활동기간: 2024.03 - 2024.05<br/>
 Language : sportscode, python3<br/>
@@ -120,7 +133,7 @@ Language : sportscode, python3<br/>
 
 <br/> <br/> 
 
-## 8. 👗 착용감 기반 추천 서비스 "핏인핏"
+## 9. 👗 착용감 기반 추천 서비스 "핏인핏"
 
 이커머스의 반품률이 높다는 문제점을 착용감 기반 추천 서비스를 통해 해결하고자 함
 <br/> 
@@ -128,7 +141,7 @@ Language : sportscode, python3<br/>
 <br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/Fit-in-Fit)<br/> <br/> 
 
-## 9. 🖥️ 프로 남자 배구 팬데이터베이스 구축
+## 10. 🖥️ 프로 남자 배구 팬데이터베이스 구축
 
 야구와 관중 수의 상관관계 분석을 통해 프로 남자 배구 팬데이터 베이스 구축을 통한 효과적 마케팅의 방향성 제시
 <br/> 
@@ -139,7 +152,7 @@ Language : python3<br/>
 <br/>
 [프로젝트 상세 설명](https://github.com/sunhacho/fan_database/tree/main)<br/> <br/> 
 
-## 10. 🤖 ChatGPT를 활용한 감정 분석
+## 11. 🤖 ChatGPT를 활용한 감정 분석
 
 인간과 ChatGPT의 감정 분석 비교 (머신러닝 - 팀프로젝트)<br/> 
 
